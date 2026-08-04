@@ -1,0 +1,15 @@
+# AWS Keys
+*.pem
+*.key
+
+# Environment Variables
+.env
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+
+# OS Files
+.DS_Store
+Thumbs.db
